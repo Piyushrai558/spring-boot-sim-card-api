@@ -9,8 +9,7 @@ import com.piyushrai.blog.repositories.UserRepo;
 @SpringBootTest
 class BlogApiApplicationTests {
 	
-	@Autowired
-	private UserRepo userRepo;
+	
 	
 	@Test
 	void contextLoads() {
