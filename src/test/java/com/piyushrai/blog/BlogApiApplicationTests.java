@@ -18,10 +18,6 @@ class BlogApiApplicationTests {
 	
 	@Test
 	public void repoTest() {
-		String className = 	this.userRepo.getClass().getName();
-		String packName = this.userRepo.getClass().getPackageName();
-		System.out.println(className);
-		System.out.println(packName);
 	}
 	
 
